@@ -8,7 +8,7 @@ Run `npm install`
 
 Run `ionic serve`
 
-It will launch a browser for you, however this thing is only work in the phone.
+It will launch a browser for you, however this thing is only working in the phone.
 So it is required to link it to the Ionic View.
 
 If you have linked your Ionic to Ionic View, just run `ionic upload` else you need to login and link to the Ionic View account by `ionic login` and `ionic link`.
